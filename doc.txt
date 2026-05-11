@@ -1,0 +1,1 @@
+Os tempos de execução variam porque o computador não executa apenas o código do benchmark. Durante os testes, o sistema operacional também está executando vários outros processos em segundo plano, como serviços do Windows, antivírus, navegador, drivers, uso de memória, tarefas de rede e gerenciamento de energia.
